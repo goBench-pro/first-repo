@@ -1,2 +1,4 @@
+import json
+
 o = {"name": "wow"}
-print(o)
+print(json.dumps(o))
