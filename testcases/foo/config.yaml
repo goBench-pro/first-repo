@@ -1,0 +1,6 @@
+benchmark: wow
+input:
+  file: input.json
+output:
+  file: output.json
+  type: json
