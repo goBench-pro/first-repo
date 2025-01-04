@@ -1,4 +1,4 @@
-FROM alpine:3.21.0
+FROM python
 
 LABEL version="0.1.0"
 LABEL description="This image is used to build docker container from an unknow user"
